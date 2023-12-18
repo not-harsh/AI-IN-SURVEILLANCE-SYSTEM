@@ -36,5 +36,7 @@ threats, relieves human operators from constant monitoring, and
 enhances the overall reliability and effectiveness of surveillance
 systems.
 
+IMAGE DETECTION SAMPLES
+
 ![Screenshot 2023-12-19 022250](https://github.com/not-harsh/AI-IN-SURVEILLANCE-SYSTEM/assets/141590635/9bcfad7e-c0cb-479c-989a-c5aa06683dd5)
 
