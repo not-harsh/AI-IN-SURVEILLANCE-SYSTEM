@@ -45,3 +45,14 @@ IMAGE DETECTION SAMPLES
 ![Screenshot 2023-12-19 022727](https://github.com/not-harsh/AI-IN-SURVEILLANCE-SYSTEM/assets/141590635/d557933d-3074-4a54-89f9-1bdf504dfcea)
 
 
+REGISTER SCREEN
+![Screenshot 2023-12-19 023531](https://github.com/not-harsh/AI-IN-SURVEILLANCE-SYSTEM/assets/141590635/bbca0ed5-9e50-4682-8e9d-ed99043ed280)
+
+LOGIN SCREEN
+![Screenshot 2023-12-19 023618](https://github.com/not-harsh/AI-IN-SURVEILLANCE-SYSTEM/assets/141590635/c13ab376-ce0f-465c-8733-fe4a4fee9892)
+
+
+MAIN SCREEN
+![Screenshot 2023-12-19 023703](https://github.com/not-harsh/AI-IN-SURVEILLANCE-SYSTEM/assets/141590635/2d5d5a8f-4862-44ab-b947-4044663073f9)
+
+
